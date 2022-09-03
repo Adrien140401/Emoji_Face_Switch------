@@ -13,4 +13,4 @@ openFace.addEventListener('click', () => {
         closedFace.classList.add('active');
         openFace.classList.remove('active');
     }
-})
+});
